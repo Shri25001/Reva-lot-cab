@@ -3,6 +3,6 @@ We have Developed a WebApp called Reva lot cab!,through which one can book a cab
 
 THE PROBLEM REVA LOT CAB! SOLVES:
 
-This web app basically used for booking the cab with your college friends, who is looking to go to same destination from same pickup point i.e (college)so that they can share the cab with college Friends/ Professors / Staff and have fun ride with mutual sharing of money, as now a days cost of cabs are to high that individuals cannot afford to pay
+This web app basically used for booking the cab with your college friends, who is looking to go to same destination from same pickup point i.e (college)so that they can share the cab with college Friends/ Professors / Staff and have fun ride with mutual sharing of money, as now a days cost of cabs are too high that individuals cannot afford to pay the huge amount.
 CHECK IT OUT :-
 https://revalotcab.shreeshailyaran.repl.co/
