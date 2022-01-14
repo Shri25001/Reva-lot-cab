@@ -1,5 +1,5 @@
 # Reva-lot-cab(its a beta version) 
-We have Developed a WebApp called Reva lot cab!,through which one can book a cab with his unknown college friend who is trying to go to same destination at same time so that their is no cost issues.
+We have Developed a WebApp called Reva  cab!, through which one can book a cab with his college friend who is looking to go to same destination at same time so that their is no cost issues.
 
 THE PROBLEM REVA LOT CAB! SOLVES:
 
